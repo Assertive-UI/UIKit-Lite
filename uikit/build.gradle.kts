@@ -60,6 +60,9 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(libs.systemUiBarsTweaker)
+    implementation(libs.color.math)
+    implementation(libs.color.math.color.int)
+    implementation(libs.color.math.compose)
 
     testImplementation(libs.junit)
 
